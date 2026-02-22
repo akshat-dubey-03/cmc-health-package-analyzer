@@ -1,5 +1,10 @@
 # 🚀 CMC Health Package Analyzer
 
+## 🚀 Live Demo
+
+Use the app directly here:
+https://cmc-health-package-analyzer-ndufwpzn9eyzq4l2cbpfem.streamlit.app/
+
 ## 📌 Overview
 An LLM-powered healthcare package analyzer that:
 
@@ -34,8 +39,12 @@ This tool automates extraction and provides structured comparison with recommend
 
 ## ⚙️ Architecture
 User → Scraper → Cleaned Text → LLM Analyzer → Structured Output
-
----
+// how it works on the backend part 
+User → Streamlit UI  
+→ Scraper Module  
+→ LLM Analyzer (OpenRouter API)  
+→ Structured Markdown Output  
+→ Recommendation Engine
 
 ## 📊 Features
 
@@ -50,6 +59,7 @@ User → Scraper → Cleaned Text → LLM Analyzer → Structured Output
 ---
 
 ## 📸 Sample Output
+
 
 
 ## 🔮 Future Improvements
