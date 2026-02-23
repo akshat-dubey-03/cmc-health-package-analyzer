@@ -58,7 +58,11 @@ User → Streamlit UI
 
 ---
 
-## 📸 Sample Output
+##  Sample Output (Full Scrollable Version)
+
+You can view the complete real output here:
+
+https://akshat-dubey-03.github.io/cmc-health-package-analyzer/
 
 
 
