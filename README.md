@@ -58,11 +58,11 @@ User → Streamlit UI
 
 ---
 
-##  Sample Output (Full Scrollable Version)
+## 📸 Sample Output (Full Scrollable Version)
 
-You can view the complete real output here:
+You can view the complete real LLM-analyzed output here:
 
-https://akshat-dubey-03.github.io/cmc-health-package-analyzer/
+👉 [View Live Sample Output](https://akshat-dubey-03.github.io/cmc-health-package-analyzer/sample_output.html)
 
 
 
