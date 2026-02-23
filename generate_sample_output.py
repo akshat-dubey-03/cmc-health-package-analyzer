@@ -146,7 +146,7 @@ if __name__ == "__main__":
 
     html_output = generate_html(llm_result)
 
-    output_file = "sample_output.html"
+    output_file = "docs/sample_output.html"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(html_output)
 
